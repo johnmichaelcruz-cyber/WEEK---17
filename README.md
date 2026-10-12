@@ -1,8 +1,8 @@
 # Simulated Device Monitoring and Alert System
  
-**Student Name:** (your full name)
-**Student Number:** (your student number)
-**Section:** (your section)
+**Student Name:** (John Michael Cruz)
+**Student Number:** (2601342)
+**Section:** (1CPE-A)
  
 ## Project Description
 This program monitors simulated device temperature readings using Python. It classifies each reading as NORMAL, WARNING, or CRITICAL based on its temperature value. The program allows users to view stored readings, add new valid readings, and generate a numerical summary with an overall system status. It also validates user input to prevent invalid temperature readings and menu choices.
